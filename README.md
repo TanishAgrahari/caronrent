@@ -31,7 +31,7 @@ A full-stack web application that allows users to **rent cars by location and se
 
 1. **Clone** the repository:
    ```bash
-   (https://github.com/TanishAgrahari/caronrent.git)
+   https://github.com/TanishAgrahari/caronrent.git
 
 # Install backend dependencies:
 - cd backend
