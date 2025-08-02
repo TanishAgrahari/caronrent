@@ -31,7 +31,7 @@ A full-stack web application that allows users to **rent cars by location and se
 
 1. **Clone** the repository:
    ```bash
-   https://github.com/markandeyshukla/car-on-rent.git
+   https://github.com/tanishagrahari/car-on-rent.git
 
 # Install backend dependencies:
 - cd backend
